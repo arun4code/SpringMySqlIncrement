@@ -1,0 +1,9 @@
+CREATE TABLE 'counter' (
+  
+	'id' int(11) NOT NULL,
+  
+	'counter' int(11) DEFAULT NULL,
+  
+	PRIMARY KEY (`id`)
+
+)
